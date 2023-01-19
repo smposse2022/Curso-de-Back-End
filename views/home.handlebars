@@ -1,0 +1,25 @@
+<div class="mx-5 my-2">
+    <h1>Home</h1>
+    <div class="d-flex justify-content-between">
+        {{#if user}}
+        <p id="usuario">{{user}}</p>
+        {{/if}}
+      <a class="btn btn-primary mb-2" href="/logout">Desloguear</a>
+    </div>
+    {{> form}}
+
+    <div class="my-4" id="productsContainer"></div>
+</div>
+
+    <h2 class="text-primary">Chat Websockets</h2>
+<input
+  class="form-control my-2"
+  type="text"
+  id="chatMsg"
+  placeholder="Ingresa un mensaje"
+/>
+<button class="btn btn-primary mb-2" id="sendMsg">Enviar</button>
+<div id="chatContainer" class="my-2"></div>
+
+{{> scripts}}
+<script type="module" src="index.js"></script>

@@ -1,0 +1,2 @@
+[2023-01-12T19:30:35.785] [ERROR] default - Hubo un error conectandose a la base MongooseError: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[2023-01-12T20:31:21.929] [ERROR] default - Se pasó un parámetro incorrecto

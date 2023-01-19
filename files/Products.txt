@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Remera Verde Lisa",
+    "price": 4500,
+    "thumbnail": "https://d3ugyf2ht6aenh.cloudfront.net/stores/111/097/products/_mg_17161-dfec26ebd336d0efc616577498111535-1024-1024.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Remera Beige Lisa",
+    "price": 4500,
+    "thumbnail": "https://d3ugyf2ht6aenh.cloudfront.net/stores/111/097/products/_mg_17061-ad68cdf82c5d284c4f16577496694867-1024-1024.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Remera Negra Lisa",
+    "price": 4500,
+    "thumbnail": "https://d3ugyf2ht6aenh.cloudfront.net/stores/111/097/products/_mg_16781-feb955b3b16b4a32a016577495798656-1024-1024.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Pantalon",
+    "price": "4500",
+    "image": "https://www.google.com/aclk?sa=l&ai=DChcSEwjWl4zN04P7AhVq6FwKHUcdDEoYABADGgJjZQ&sig=AOD64_3fIUOrhp10bQUOHb3b0iRzSLQ5TA&adurl&ctype=5&ved=2ahUKEwj7j_nM04P7AhVeCbkGHW__BvQQvhd6BAgBEHE"
+  }
+]
